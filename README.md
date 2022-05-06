@@ -1,5 +1,8 @@
 # Federated Optimization in Heterogeneous Networks
 
+Code Reference to: https://github.com/fedl-repo/fedaux
+
+
 This repository contains the code and experiments for the paper:
 
 > [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127)
