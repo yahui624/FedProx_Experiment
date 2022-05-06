@@ -2,6 +2,7 @@
 
 Code Reference to: https://github.com/fedl-repo/fedaux
 
+source tf_v1/bin/activate 
 
 This repository contains the code and experiments for the paper:
 
